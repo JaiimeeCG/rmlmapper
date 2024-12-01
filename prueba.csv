@@ -1,0 +1,138 @@
+HomeTeam,AwayTeam,FTHG,Id
+Ath Bilbao,Getafe,1,0
+Betis,Girona,1,1
+Celta,Alaves,2,2
+Las Palmas,Sevilla,2,3
+Osasuna,Leganes,1,4
+Valencia,Barcelona,1,5
+Sociedad,Vallecano,1,6
+Mallorca,Real Madrid,1,7
+Valladolid,Espanol,1,8
+Villarreal,Ath Madrid,2,9
+Celta,Valencia,3,10
+Sevilla,Villarreal,1,11
+Osasuna,Mallorca,1,12
+Barcelona,Ath Bilbao,2,13
+Espanol,Sociedad,0,14
+Getafe,Vallecano,0,15
+Real Madrid,Valladolid,3,16
+Leganes,Las Palmas,2,17
+Alaves,Betis,0,18
+Ath Madrid,Girona,3,19
+Villarreal,Celta,4,20
+Mallorca,Sevilla,0,21
+Vallecano,Barcelona,1,22
+Ath Bilbao,Valencia,1,23
+Valladolid,Leganes,0,24
+Ath Madrid,Espanol,0,25
+Sociedad,Alaves,1,26
+Girona,Osasuna,4,27
+Las Palmas,Real Madrid,1,28
+Barcelona,Valladolid,7,29
+Ath Bilbao,Ath Madrid,0,30
+Espanol,Vallecano,2,31
+Leganes,Mallorca,0,32
+Valencia,Villarreal,1,33
+Alaves,Las Palmas,2,34
+Osasuna,Celta,3,35
+Sevilla,Girona,0,36
+Getafe,Sociedad,0,37
+Real Madrid,Betis,2,38
+Betis,Leganes,2,39
+Mallorca,Villarreal,1,40
+Espanol,Alaves,3,41
+Sevilla,Getafe,1,42
+Sociedad,Real Madrid,0,43
+Celta,Valladolid,3,44
+Girona,Barcelona,1,45
+Las Palmas,Ath Bilbao,2,46
+Ath Madrid,Valencia,3,47
+Vallecano,Osasuna,3,48
+Mallorca,Sociedad,1,49
+Betis,Getafe,2,50
+Leganes,Ath Bilbao,0,51
+Alaves,Sevilla,2,52
+Valladolid,Sociedad,0,53
+Osasuna,Las Palmas,2,54
+Valencia,Girona,2,55
+Real Madrid,Espanol,4,56
+Getafe,Leganes,1,57
+Ath Bilbao,Celta,3,58
+Villarreal,Barcelona,1,59
+Vallecano,Ath Madrid,1,60
+Betis,Mallorca,1,61
+Sevilla,Valladolid,2,62
+Valencia,Osasuna,0,63
+Real Madrid,Alaves,3,64
+Girona,Vallecano,0,65
+Barcelona,Getafe,1,66
+Espanol,Villarreal,1,67
+Las Palmas,Betis,1,68
+Celta,Ath Madrid,0,69
+Valladolid,Mallorca,1,70
+Getafe,Alaves,2,71
+Vallecano,Leganes,1,72
+Sociedad,Valencia,3,73
+Osasuna,Barcelona,4,74
+Celta,Girona,1,75
+Ath Bilbao,Sevilla,1,76
+Betis,Espanol,1,77
+Ath Madrid,Real Madrid,1,78
+Villarreal,Las Palmas,3,79
+Leganes,Valencia,0,80
+Espanol,Mallorca,2,81
+Getafe,Osasuna,1,82
+Las Palmas,Celta,0,83
+Valladolid,Vallecano,1,84
+Real Madrid,Villarreal,2,85
+Girona,Ath Bilbao,2,86
+Alaves,Barcelona,0,87
+Sevilla,Betis,1,88
+Sociedad,Ath Madrid,1,89
+Alaves,Valladolid,2,90
+Ath Bilbao,Espanol,4,91
+Osasuna,Betis,1,92
+Girona,Sociedad,0,93
+Celta,Real Madrid,1,94
+Mallorca,Vallecano,1,95
+Ath Madrid,Leganes,3,96
+Villarreal,Getafe,1,97
+Barcelona,Sevilla,5,98
+Valencia,Las Palmas,2,99
+Espanol,Sevilla,0,100
+Valladolid,Villarreal,1,101
+Vallecano,Alaves,1,102
+Las Palmas,Girona,1,103
+Real Madrid,Barcelona,0,104
+Leganes,Celta,3,105
+Getafe,Valencia,1,106
+Betis,Ath Madrid,1,107
+Sociedad,Osasuna,0,108
+Mallorca,Ath Bilbao,0,109
+Alaves,Mallorca,1,110
+Osasuna,Valladolid,1,111
+Girona,Leganes,4,112
+Ath Madrid,Las Palmas,2,113
+Barcelona,Espanol,3,114
+Sevilla,Sociedad,0,115
+Ath Bilbao,Betis,1,116
+Celta,Getafe,1,117
+Vallecano,Las Palmas,1,118
+Real Madrid,Osasuna,4,119
+Villarreal,Alaves,3,120
+Leganes,Sevilla,1,121
+Betis,Celta,2,122
+Mallorca,Ath Madrid,0,123
+Getafe,Girona,0,124
+Valladolid,Ath Bilbao,1,125
+Sociedad,Barcelona,1,126
+Getafe,Valladolid,2,127
+Valencia,Betis,4,128
+Ath Madrid,Alaves,2,129
+Girona,Espanol,4,130
+Las Palmas,Mallorca,2,131
+Celta,Barcelona,2,132
+Osasuna,Villarreal,2,133
+Sevilla,Vallecano,1,134
+Leganes,Real Madrid,0,135
+Ath Bilbao,Sociedad,1,136
